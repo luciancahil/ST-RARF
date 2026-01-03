@@ -22,8 +22,9 @@ COLORA = '#027F80'
 COLORB = '#B2E5FC'
 
 class RaRFRegressor:
-    def __init__(self, *, radius=1, metric='jaccard'):
+    def __init__(self, *, radius=1, metric='jaccard', seed = None):
         self.radius = radius
+        self.seed = seed
         if metric=='euclidean':
             self.metric = euclidean
         if metric=='jaccard':
@@ -81,7 +82,7 @@ class RaRFRegressor:
             elif X_train_red.ndim == 1:
                 predictions.append(y_train_red)
             else:
-                model = RandomForestRegressor().fit(X_train_red,y_train_red)
+                model = RandomForestRegressor(random_state=self.seed).fit(X_train_red,y_train_red)
                 predictions.append(float(model.predict(rxn.reshape(1,-1))))
                 
             neighbours.append(len(y_train_red))
@@ -114,7 +115,7 @@ class RaRFRegressor:
             elif X_train_red.ndim == 1:
                 predictions.append(y_train_red)
             else:
-                model = RandomForestRegressor().fit(X_train_red,y_train_red)
+                model = RandomForestRegressor(random_state=self.seed).fit(X_train_red,y_train_red)
                 predictions.append(float(model.predict(test_rxn.reshape(1,-1))))
 
             neighbours.append(len(y_train_red))
@@ -146,7 +147,7 @@ class RaRFRegressor:
             elif X_train_red.ndim == 1:
                 return y_train_red, len(y_train_red), y_train_red
             else:
-                model = RandomForestRegressor().fit(X_train_red, y_train_red)
+                model = RandomForestRegressor(random_state=self.seed).fit(X_train_red, y_train_red)
                 return float(model.predict(test_rxn.reshape(1, -1))), len(y_train_red), y_train_red
 
         results = Parallel(n_jobs=n_jobs)(delayed(process)(test_index, test_rxn) for test_index, test_rxn in enumerate(X_test))
@@ -207,7 +208,7 @@ class RaRFRegressor:
             elif X_train_red.ndim == 1:
                 return y_train_red, len(y_train_red)
             else:
-                model = RandomForestRegressor().fit(X_train_red,y_train_red)
+                model = RandomForestRegressor(random_state=self.seed).fit(X_train_red,y_train_red)
                 return float(model.predict(rxn.reshape(1,-1))), len(y_train_red)
         
         results = Parallel(n_jobs=n_jobs)(delayed(process)(rxn_index, rxn) for rxn_index, rxn in enumerate(X_train))
