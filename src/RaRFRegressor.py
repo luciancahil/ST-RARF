@@ -104,6 +104,7 @@ class RaRFRegressor:
 
         return np.array(predictions), neighbours
     
+    # what actually goes on here? Oh, X_train already removes stuff. Yay!
     def predict_parallel(self,X_train, y_train, X_test, distances, n_jobs=-1):
         """ 
         Parallel version of predict function
@@ -123,21 +124,25 @@ class RaRFRegressor:
             y_train_red = y_train[indexes]
 
             if len(X_train_red) == 0:
-                return np.nan, len(y_train_red)
+                return np.nan, len(y_train_red), np.array([])
             
             elif X_train_red.ndim == 1:
-                return y_train_red, len(y_train_red)
+                return y_train_red, len(y_train_red), y_train_red
             else:
                 model = RandomForestRegressor().fit(X_train_red, y_train_red)
-                return float(model.predict(test_rxn.reshape(1, -1))), len(y_train_red)
+                return float(model.predict(test_rxn.reshape(1, -1))), len(y_train_red), y_train_red
 
         results = Parallel(n_jobs=n_jobs)(delayed(process)(test_index, test_rxn) for test_index, test_rxn in enumerate(X_test))
 
-        predictions, neighbours = zip(*results)
+
+
+
+        predictions, neighbours, neighbour_list = zip(*results)
         predictions = np.array(predictions)
         neighbours = np.array(neighbours)
 
-        return predictions, neighbours
+
+        return predictions, neighbours, neighbour_list
     
     def train_parallel(self, X_train, y_train, include_self='False', distances=None, n_jobs=-1):
         """
