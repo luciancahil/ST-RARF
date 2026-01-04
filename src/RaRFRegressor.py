@@ -142,16 +142,15 @@ class RaRFRegressor:
             y_train_red = y_train[indexes]
 
             if len(X_train_red) == 0:
-                return np.nan, len(y_train_red), np.array([])
+                return np.nan, len(y_train_red), indexes
             
             elif X_train_red.ndim == 1:
-                return y_train_red, len(y_train_red), y_train_red
+                return y_train_red, len(y_train_red), indexes
             else:
                 model = RandomForestRegressor(random_state=self.seed).fit(X_train_red, y_train_red)
-                return float(model.predict(test_rxn.reshape(1, -1))), len(y_train_red), y_train_red
+                return float(model.predict(test_rxn.reshape(1, -1))), len(y_train_red), indexes
 
         results = Parallel(n_jobs=n_jobs)(delayed(process)(test_index, test_rxn) for test_index, test_rxn in enumerate(X_test))
-
 
 
 
