@@ -28,6 +28,7 @@ def run_and_plot(radius, X_train, y_train, X_test, y_test, distances, title_extr
     radius_testpred_temp = np.delete(radius_testpred,nan_indexes)
     y_test_temp = np.delete(y_test,nan_indexes)
 
+    print(y_test_temp)        
 
     fig, (ax1, ax2) = plt.subplots(1,2, figsize=(10,5), dpi=300)
 
@@ -143,6 +144,13 @@ def run_MT(cutoff, max_budget, ref_mae, ref_r2, X_train, y_train, X_test, y_test
         cur_distances = np.full_like(distances, 2)
     
         cur_distances[:,cur_indicies] = distances[:,cur_indicies]
+        if(budget == 0):
+            print(f"Using only {multiplier*100}% of availale reactions give no training data")
+            # nan to skip when plotting, number of non-reactions is all of them, 0 average neighbours, empty reaction lists, nan again
+            placeholder_results = [np.nan, X_train.shape[0], 0, [], [], np.nan]
+            results.append(tuple(placeholder_results))
+            continue
+
     
         results.append(run_and_plot(cutoff, X_train, y_train, X_test, y_test, cur_distances,  
                                     title_extra = ", Budget: {}, Percent Used: {:.1f}%".format(budget, multiplier * 100)))
@@ -158,6 +166,7 @@ def run_MT(cutoff, max_budget, ref_mae, ref_r2, X_train, y_train, X_test, y_test
 
     title = "MAE to Percent of Reactions Used \n(Radius = {})".format(cutoff)
 
+    # random large number to give the illusion of a line.
     ref_num_points = 1000
 
     ref_x = np.array(range(0, ref_num_points)) * 100 / ref_num_points
@@ -171,7 +180,7 @@ def run_MT(cutoff, max_budget, ref_mae, ref_r2, X_train, y_train, X_test, y_test
     ax1.scatter(100 * multipliers, cur_RaRF_mae, label="Actual")
     ax1.legend()
 
-    ax2.set_title("MAE to Percent of Reactions Used \n(Radius = 0.1)")
+    ax2.set_title("R^2 to Percent of Reactions Used \n(Radius = 0.1)")
     ax2.yaxis.set_label_position("right")
     ax2.yaxis.tick_right()
 
@@ -182,5 +191,7 @@ def run_MT(cutoff, max_budget, ref_mae, ref_r2, X_train, y_train, X_test, y_test
 
     ax2.legend()
 
+    print("RARF MAE: {}".format(cur_RaRF_mae))
+    print("RARF R2: {}".format(cur_test_r2s))
 
     plt.show()
