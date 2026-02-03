@@ -1,0 +1,9 @@
+[NbConvertApp] Converting notebook G-Angew2021-MT (Copy 2).ipynb to notebook
+/home/royhe/miniconda3/envs/neighbour/lib/python3.10/site-packages/IPython/paths.py:62: UserWarning: IPython dir '/arc/home/royhe/.ipython' is not a writable location, using a temp directory.
+  warn("IPython dir '{0}' is not a writable location,"
+/home/royhe/miniconda3/envs/neighbour/lib/python3.10/site-packages/IPython/paths.py:62: UserWarning: IPython dir '/arc/home/royhe/.ipython' is not a writable location, using a temp directory.
+  warn("IPython dir '{0}' is not a writable location,"
+Fontconfig error: No writable cache directories
+Fontconfig error: No writable cache directories
+Fontconfig error: No writable cache directories
+Fontconfig error: No writable cache directories

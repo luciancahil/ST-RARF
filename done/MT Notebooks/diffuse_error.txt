@@ -1,0 +1,505 @@
+[NbConvertApp] Converting notebook A-Nature2019-MT (Copy 10).ipynb to notebook
+/home/royhe/miniconda3/envs/neighbour/lib/python3.10/site-packages/IPython/paths.py:62: UserWarning: IPython dir '/arc/home/royhe/.ipython' is not a writable location, using a temp directory.
+  warn("IPython dir '{0}' is not a writable location,"
+/home/royhe/miniconda3/envs/neighbour/lib/python3.10/site-packages/IPython/paths.py:62: UserWarning: IPython dir '/arc/home/royhe/.ipython' is not a writable location, using a temp directory.
+  warn("IPython dir '{0}' is not a writable location,"
+Fontconfig error: No writable cache directories
+Fontconfig error: No writable cache directories
+Fontconfig error: No writable cache directories
+Fontconfig error: No writable cache directories
+[NbConvertApp] WARNING | Wait for final termination of kernel timed out - continuing...
+[NbConvertApp] Writing 27610076 bytes to A-Nature2019-MT (Copy 10).ipynb
+[NbConvertApp] Converting notebook A-Nature2019-MT (Copy 2).ipynb to notebook
+/home/royhe/miniconda3/envs/neighbour/lib/python3.10/site-packages/IPython/paths.py:62: UserWarning: IPython dir '/arc/home/royhe/.ipython' is not a writable location, using a temp directory.
+  warn("IPython dir '{0}' is not a writable location,"
+/home/royhe/miniconda3/envs/neighbour/lib/python3.10/site-packages/IPython/paths.py:62: UserWarning: IPython dir '/arc/home/royhe/.ipython' is not a writable location, using a temp directory.
+  warn("IPython dir '{0}' is not a writable location,"
+Fontconfig error: No writable cache directories
+Fontconfig error: No writable cache directories
+Fontconfig error: No writable cache directories
+Fontconfig error: No writable cache directories
+[NbConvertApp] Writing 27610076 bytes to A-Nature2019-MT (Copy 2).ipynb
+[NbConvertApp] Converting notebook A-Nature2019-MT (Copy 3).ipynb to notebook
+/home/royhe/miniconda3/envs/neighbour/lib/python3.10/site-packages/IPython/paths.py:62: UserWarning: IPython dir '/arc/home/royhe/.ipython' is not a writable location, using a temp directory.
+  warn("IPython dir '{0}' is not a writable location,"
+/home/royhe/miniconda3/envs/neighbour/lib/python3.10/site-packages/IPython/paths.py:62: UserWarning: IPython dir '/arc/home/royhe/.ipython' is not a writable location, using a temp directory.
+  warn("IPython dir '{0}' is not a writable location,"
+Fontconfig error: No writable cache directories
+Fontconfig error: No writable cache directories
+Fontconfig error: No writable cache directories
+Fontconfig error: No writable cache directories
+[NbConvertApp] Writing 27610076 bytes to A-Nature2019-MT (Copy 3).ipynb
+[NbConvertApp] Converting notebook A-Nature2019-MT (Copy 4).ipynb to notebook
+/home/royhe/miniconda3/envs/neighbour/lib/python3.10/site-packages/IPython/paths.py:62: UserWarning: IPython dir '/arc/home/royhe/.ipython' is not a writable location, using a temp directory.
+  warn("IPython dir '{0}' is not a writable location,"
+/home/royhe/miniconda3/envs/neighbour/lib/python3.10/site-packages/IPython/paths.py:62: UserWarning: IPython dir '/arc/home/royhe/.ipython' is not a writable location, using a temp directory.
+  warn("IPython dir '{0}' is not a writable location,"
+Fontconfig error: No writable cache directories
+Fontconfig error: No writable cache directories
+Fontconfig error: No writable cache directories
+Fontconfig error: No writable cache directories
+[NbConvertApp] Writing 27610076 bytes to A-Nature2019-MT (Copy 4).ipynb
+[NbConvertApp] Converting notebook A-Nature2019-MT (Copy 5).ipynb to notebook
+/home/royhe/miniconda3/envs/neighbour/lib/python3.10/site-packages/IPython/paths.py:62: UserWarning: IPython dir '/arc/home/royhe/.ipython' is not a writable location, using a temp directory.
+  warn("IPython dir '{0}' is not a writable location,"
+/home/royhe/miniconda3/envs/neighbour/lib/python3.10/site-packages/IPython/paths.py:62: UserWarning: IPython dir '/arc/home/royhe/.ipython' is not a writable location, using a temp directory.
+  warn("IPython dir '{0}' is not a writable location,"
+Fontconfig error: No writable cache directories
+Fontconfig error: No writable cache directories
+Fontconfig error: No writable cache directories
+Fontconfig error: No writable cache directories
+[NbConvertApp] Writing 27610076 bytes to A-Nature2019-MT (Copy 5).ipynb
+[NbConvertApp] Converting notebook A-Nature2019-MT (Copy 6).ipynb to notebook
+/home/royhe/miniconda3/envs/neighbour/lib/python3.10/site-packages/IPython/paths.py:62: UserWarning: IPython dir '/arc/home/royhe/.ipython' is not a writable location, using a temp directory.
+  warn("IPython dir '{0}' is not a writable location,"
+/home/royhe/miniconda3/envs/neighbour/lib/python3.10/site-packages/IPython/paths.py:62: UserWarning: IPython dir '/arc/home/royhe/.ipython' is not a writable location, using a temp directory.
+  warn("IPython dir '{0}' is not a writable location,"
+Fontconfig error: No writable cache directories
+Fontconfig error: No writable cache directories
+Fontconfig error: No writable cache directories
+Fontconfig error: No writable cache directories
+[NbConvertApp] Writing 27610076 bytes to A-Nature2019-MT (Copy 6).ipynb
+[NbConvertApp] Converting notebook A-Nature2019-MT (Copy 7).ipynb to notebook
+/home/royhe/miniconda3/envs/neighbour/lib/python3.10/site-packages/IPython/paths.py:62: UserWarning: IPython dir '/arc/home/royhe/.ipython' is not a writable location, using a temp directory.
+  warn("IPython dir '{0}' is not a writable location,"
+/home/royhe/miniconda3/envs/neighbour/lib/python3.10/site-packages/IPython/paths.py:62: UserWarning: IPython dir '/arc/home/royhe/.ipython' is not a writable location, using a temp directory.
+  warn("IPython dir '{0}' is not a writable location,"
+Fontconfig error: No writable cache directories
+Fontconfig error: No writable cache directories
+Fontconfig error: No writable cache directories
+Fontconfig error: No writable cache directories
+[NbConvertApp] Writing 27610076 bytes to A-Nature2019-MT (Copy 7).ipynb
+[NbConvertApp] Converting notebook A-Nature2019-MT (Copy 8).ipynb to notebook
+/home/royhe/miniconda3/envs/neighbour/lib/python3.10/site-packages/IPython/paths.py:62: UserWarning: IPython dir '/arc/home/royhe/.ipython' is not a writable location, using a temp directory.
+  warn("IPython dir '{0}' is not a writable location,"
+/home/royhe/miniconda3/envs/neighbour/lib/python3.10/site-packages/IPython/paths.py:62: UserWarning: IPython dir '/arc/home/royhe/.ipython' is not a writable location, using a temp directory.
+  warn("IPython dir '{0}' is not a writable location,"
+Fontconfig error: No writable cache directories
+Fontconfig error: No writable cache directories
+Fontconfig error: No writable cache directories
+Fontconfig error: No writable cache directories
+[NbConvertApp] Writing 27610076 bytes to A-Nature2019-MT (Copy 8).ipynb
+[NbConvertApp] Converting notebook A-Nature2019-MT (Copy 9).ipynb to notebook
+/home/royhe/miniconda3/envs/neighbour/lib/python3.10/site-packages/IPython/paths.py:62: UserWarning: IPython dir '/arc/home/royhe/.ipython' is not a writable location, using a temp directory.
+  warn("IPython dir '{0}' is not a writable location,"
+/home/royhe/miniconda3/envs/neighbour/lib/python3.10/site-packages/IPython/paths.py:62: UserWarning: IPython dir '/arc/home/royhe/.ipython' is not a writable location, using a temp directory.
+  warn("IPython dir '{0}' is not a writable location,"
+Fontconfig error: No writable cache directories
+Fontconfig error: No writable cache directories
+Fontconfig error: No writable cache directories
+Fontconfig error: No writable cache directories
+[NbConvertApp] Writing 27610076 bytes to A-Nature2019-MT (Copy 9).ipynb
+[NbConvertApp] Converting notebook A-Nature2019-MT.ipynb to notebook
+/home/royhe/miniconda3/envs/neighbour/lib/python3.10/site-packages/IPython/paths.py:62: UserWarning: IPython dir '/arc/home/royhe/.ipython' is not a writable location, using a temp directory.
+  warn("IPython dir '{0}' is not a writable location,"
+/home/royhe/miniconda3/envs/neighbour/lib/python3.10/site-packages/IPython/paths.py:62: UserWarning: IPython dir '/arc/home/royhe/.ipython' is not a writable location, using a temp directory.
+  warn("IPython dir '{0}' is not a writable location,"
+Fontconfig error: No writable cache directories
+Fontconfig error: No writable cache directories
+Fontconfig error: No writable cache directories
+Fontconfig error: No writable cache directories
+[NbConvertApp] Writing 27610075 bytes to A-Nature2019-MT.ipynb
+[NbConvertApp] Converting notebook B-DD2022--MT (Copy 10).ipynb to notebook
+/home/royhe/miniconda3/envs/neighbour/lib/python3.10/site-packages/IPython/paths.py:62: UserWarning: IPython dir '/arc/home/royhe/.ipython' is not a writable location, using a temp directory.
+  warn("IPython dir '{0}' is not a writable location,"
+/home/royhe/miniconda3/envs/neighbour/lib/python3.10/site-packages/IPython/paths.py:62: UserWarning: IPython dir '/arc/home/royhe/.ipython' is not a writable location, using a temp directory.
+  warn("IPython dir '{0}' is not a writable location,"
+Fontconfig error: No writable cache directories
+Fontconfig error: No writable cache directories
+Fontconfig error: No writable cache directories
+Fontconfig error: No writable cache directories
+[NbConvertApp] Writing 27999742 bytes to B-DD2022--MT (Copy 10).ipynb
+[NbConvertApp] Converting notebook B-DD2022--MT (Copy 2).ipynb to notebook
+/home/royhe/miniconda3/envs/neighbour/lib/python3.10/site-packages/IPython/paths.py:62: UserWarning: IPython dir '/arc/home/royhe/.ipython' is not a writable location, using a temp directory.
+  warn("IPython dir '{0}' is not a writable location,"
+/home/royhe/miniconda3/envs/neighbour/lib/python3.10/site-packages/IPython/paths.py:62: UserWarning: IPython dir '/arc/home/royhe/.ipython' is not a writable location, using a temp directory.
+  warn("IPython dir '{0}' is not a writable location,"
+Fontconfig error: No writable cache directories
+Fontconfig error: No writable cache directories
+Fontconfig error: No writable cache directories
+Fontconfig error: No writable cache directories
+[NbConvertApp] Writing 27999655 bytes to B-DD2022--MT (Copy 2).ipynb
+[NbConvertApp] Converting notebook B-DD2022--MT (Copy 3).ipynb to notebook
+/home/royhe/miniconda3/envs/neighbour/lib/python3.10/site-packages/IPython/paths.py:62: UserWarning: IPython dir '/arc/home/royhe/.ipython' is not a writable location, using a temp directory.
+  warn("IPython dir '{0}' is not a writable location,"
+/home/royhe/miniconda3/envs/neighbour/lib/python3.10/site-packages/IPython/paths.py:62: UserWarning: IPython dir '/arc/home/royhe/.ipython' is not a writable location, using a temp directory.
+  warn("IPython dir '{0}' is not a writable location,"
+Fontconfig error: No writable cache directories
+Fontconfig error: No writable cache directories
+Fontconfig error: No writable cache directories
+Fontconfig error: No writable cache directories
+[NbConvertApp] WARNING | Wait for final termination of kernel timed out - continuing...
+[NbConvertApp] Writing 27999655 bytes to B-DD2022--MT (Copy 3).ipynb
+[NbConvertApp] Converting notebook B-DD2022--MT (Copy 4).ipynb to notebook
+/home/royhe/miniconda3/envs/neighbour/lib/python3.10/site-packages/IPython/paths.py:62: UserWarning: IPython dir '/arc/home/royhe/.ipython' is not a writable location, using a temp directory.
+  warn("IPython dir '{0}' is not a writable location,"
+/home/royhe/miniconda3/envs/neighbour/lib/python3.10/site-packages/IPython/paths.py:62: UserWarning: IPython dir '/arc/home/royhe/.ipython' is not a writable location, using a temp directory.
+  warn("IPython dir '{0}' is not a writable location,"
+Fontconfig error: No writable cache directories
+Fontconfig error: No writable cache directories
+Fontconfig error: No writable cache directories
+Fontconfig error: No writable cache directories
+[NbConvertApp] Writing 27999655 bytes to B-DD2022--MT (Copy 4).ipynb
+[NbConvertApp] Converting notebook B-DD2022--MT (Copy 5).ipynb to notebook
+/home/royhe/miniconda3/envs/neighbour/lib/python3.10/site-packages/IPython/paths.py:62: UserWarning: IPython dir '/arc/home/royhe/.ipython' is not a writable location, using a temp directory.
+  warn("IPython dir '{0}' is not a writable location,"
+/home/royhe/miniconda3/envs/neighbour/lib/python3.10/site-packages/IPython/paths.py:62: UserWarning: IPython dir '/arc/home/royhe/.ipython' is not a writable location, using a temp directory.
+  warn("IPython dir '{0}' is not a writable location,"
+Fontconfig error: No writable cache directories
+Fontconfig error: No writable cache directories
+Fontconfig error: No writable cache directories
+Fontconfig error: No writable cache directories
+[NbConvertApp] Writing 27999742 bytes to B-DD2022--MT (Copy 5).ipynb
+[NbConvertApp] Converting notebook B-DD2022--MT (Copy 6).ipynb to notebook
+/home/royhe/miniconda3/envs/neighbour/lib/python3.10/site-packages/IPython/paths.py:62: UserWarning: IPython dir '/arc/home/royhe/.ipython' is not a writable location, using a temp directory.
+  warn("IPython dir '{0}' is not a writable location,"
+/home/royhe/miniconda3/envs/neighbour/lib/python3.10/site-packages/IPython/paths.py:62: UserWarning: IPython dir '/arc/home/royhe/.ipython' is not a writable location, using a temp directory.
+  warn("IPython dir '{0}' is not a writable location,"
+Fontconfig error: No writable cache directories
+Fontconfig error: No writable cache directories
+Fontconfig error: No writable cache directories
+Fontconfig error: No writable cache directories
+[NbConvertApp] Writing 27999655 bytes to B-DD2022--MT (Copy 6).ipynb
+[NbConvertApp] Converting notebook B-DD2022--MT (Copy 7).ipynb to notebook
+/home/royhe/miniconda3/envs/neighbour/lib/python3.10/site-packages/IPython/paths.py:62: UserWarning: IPython dir '/arc/home/royhe/.ipython' is not a writable location, using a temp directory.
+  warn("IPython dir '{0}' is not a writable location,"
+/home/royhe/miniconda3/envs/neighbour/lib/python3.10/site-packages/IPython/paths.py:62: UserWarning: IPython dir '/arc/home/royhe/.ipython' is not a writable location, using a temp directory.
+  warn("IPython dir '{0}' is not a writable location,"
+Fontconfig error: No writable cache directories
+Fontconfig error: No writable cache directories
+Fontconfig error: No writable cache directories
+Fontconfig error: No writable cache directories
+[NbConvertApp] Writing 27999655 bytes to B-DD2022--MT (Copy 7).ipynb
+[NbConvertApp] Converting notebook B-DD2022--MT (Copy 8).ipynb to notebook
+/home/royhe/miniconda3/envs/neighbour/lib/python3.10/site-packages/IPython/paths.py:62: UserWarning: IPython dir '/arc/home/royhe/.ipython' is not a writable location, using a temp directory.
+  warn("IPython dir '{0}' is not a writable location,"
+/home/royhe/miniconda3/envs/neighbour/lib/python3.10/site-packages/IPython/paths.py:62: UserWarning: IPython dir '/arc/home/royhe/.ipython' is not a writable location, using a temp directory.
+  warn("IPython dir '{0}' is not a writable location,"
+Fontconfig error: No writable cache directories
+Fontconfig error: No writable cache directories
+Fontconfig error: No writable cache directories
+Fontconfig error: No writable cache directories
+[NbConvertApp] Writing 27999742 bytes to B-DD2022--MT (Copy 8).ipynb
+[NbConvertApp] Converting notebook B-DD2022--MT (Copy 9).ipynb to notebook
+/home/royhe/miniconda3/envs/neighbour/lib/python3.10/site-packages/IPython/paths.py:62: UserWarning: IPython dir '/arc/home/royhe/.ipython' is not a writable location, using a temp directory.
+  warn("IPython dir '{0}' is not a writable location,"
+/home/royhe/miniconda3/envs/neighbour/lib/python3.10/site-packages/IPython/paths.py:62: UserWarning: IPython dir '/arc/home/royhe/.ipython' is not a writable location, using a temp directory.
+  warn("IPython dir '{0}' is not a writable location,"
+Fontconfig error: No writable cache directories
+Fontconfig error: No writable cache directories
+Fontconfig error: No writable cache directories
+Fontconfig error: No writable cache directories
+[NbConvertApp] Writing 27999655 bytes to B-DD2022--MT (Copy 9).ipynb
+[NbConvertApp] Converting notebook B-DD2022--MT.ipynb to notebook
+/home/royhe/miniconda3/envs/neighbour/lib/python3.10/site-packages/IPython/paths.py:62: UserWarning: IPython dir '/arc/home/royhe/.ipython' is not a writable location, using a temp directory.
+  warn("IPython dir '{0}' is not a writable location,"
+/home/royhe/miniconda3/envs/neighbour/lib/python3.10/site-packages/IPython/paths.py:62: UserWarning: IPython dir '/arc/home/royhe/.ipython' is not a writable location, using a temp directory.
+  warn("IPython dir '{0}' is not a writable location,"
+Fontconfig error: No writable cache directories
+Fontconfig error: No writable cache directories
+Fontconfig error: No writable cache directories
+Fontconfig error: No writable cache directories
+[NbConvertApp] Writing 27999654 bytes to B-DD2022--MT.ipynb
+[NbConvertApp] Converting notebook C-ACSCatal2024-MT (Copy 10).ipynb to notebook
+/home/royhe/miniconda3/envs/neighbour/lib/python3.10/site-packages/IPython/paths.py:62: UserWarning: IPython dir '/arc/home/royhe/.ipython' is not a writable location, using a temp directory.
+  warn("IPython dir '{0}' is not a writable location,"
+/home/royhe/miniconda3/envs/neighbour/lib/python3.10/site-packages/IPython/paths.py:62: UserWarning: IPython dir '/arc/home/royhe/.ipython' is not a writable location, using a temp directory.
+  warn("IPython dir '{0}' is not a writable location,"
+Fontconfig error: No writable cache directories
+Fontconfig error: No writable cache directories
+Fontconfig error: No writable cache directories
+Fontconfig error: No writable cache directories
+[NbConvertApp] WARNING | Wait for final termination of kernel timed out - continuing...
+[NbConvertApp] Writing 27886144 bytes to C-ACSCatal2024-MT (Copy 10).ipynb
+[NbConvertApp] Converting notebook C-ACSCatal2024-MT (Copy 2).ipynb to notebook
+/home/royhe/miniconda3/envs/neighbour/lib/python3.10/site-packages/IPython/paths.py:62: UserWarning: IPython dir '/arc/home/royhe/.ipython' is not a writable location, using a temp directory.
+  warn("IPython dir '{0}' is not a writable location,"
+/home/royhe/miniconda3/envs/neighbour/lib/python3.10/site-packages/IPython/paths.py:62: UserWarning: IPython dir '/arc/home/royhe/.ipython' is not a writable location, using a temp directory.
+  warn("IPython dir '{0}' is not a writable location,"
+Fontconfig error: No writable cache directories
+Fontconfig error: No writable cache directories
+Fontconfig error: No writable cache directories
+Fontconfig error: No writable cache directories
+[NbConvertApp] Writing 27886057 bytes to C-ACSCatal2024-MT (Copy 2).ipynb
+[NbConvertApp] Converting notebook C-ACSCatal2024-MT (Copy 3).ipynb to notebook
+/home/royhe/miniconda3/envs/neighbour/lib/python3.10/site-packages/IPython/paths.py:62: UserWarning: IPython dir '/arc/home/royhe/.ipython' is not a writable location, using a temp directory.
+  warn("IPython dir '{0}' is not a writable location,"
+/home/royhe/miniconda3/envs/neighbour/lib/python3.10/site-packages/IPython/paths.py:62: UserWarning: IPython dir '/arc/home/royhe/.ipython' is not a writable location, using a temp directory.
+  warn("IPython dir '{0}' is not a writable location,"
+Fontconfig error: No writable cache directories
+Fontconfig error: No writable cache directories
+Fontconfig error: No writable cache directories
+Fontconfig error: No writable cache directories
+[NbConvertApp] Writing 27886057 bytes to C-ACSCatal2024-MT (Copy 3).ipynb
+[NbConvertApp] Converting notebook C-ACSCatal2024-MT (Copy 4).ipynb to notebook
+/home/royhe/miniconda3/envs/neighbour/lib/python3.10/site-packages/IPython/paths.py:62: UserWarning: IPython dir '/arc/home/royhe/.ipython' is not a writable location, using a temp directory.
+  warn("IPython dir '{0}' is not a writable location,"
+/home/royhe/miniconda3/envs/neighbour/lib/python3.10/site-packages/IPython/paths.py:62: UserWarning: IPython dir '/arc/home/royhe/.ipython' is not a writable location, using a temp directory.
+  warn("IPython dir '{0}' is not a writable location,"
+Fontconfig error: No writable cache directories
+Fontconfig error: No writable cache directories
+Fontconfig error: No writable cache directories
+Fontconfig error: No writable cache directories
+[NbConvertApp] Writing 27886057 bytes to C-ACSCatal2024-MT (Copy 4).ipynb
+[NbConvertApp] Converting notebook C-ACSCatal2024-MT (Copy 5).ipynb to notebook
+/home/royhe/miniconda3/envs/neighbour/lib/python3.10/site-packages/IPython/paths.py:62: UserWarning: IPython dir '/arc/home/royhe/.ipython' is not a writable location, using a temp directory.
+  warn("IPython dir '{0}' is not a writable location,"
+/home/royhe/miniconda3/envs/neighbour/lib/python3.10/site-packages/IPython/paths.py:62: UserWarning: IPython dir '/arc/home/royhe/.ipython' is not a writable location, using a temp directory.
+  warn("IPython dir '{0}' is not a writable location,"
+Fontconfig error: No writable cache directories
+Fontconfig error: No writable cache directories
+Fontconfig error: No writable cache directories
+Fontconfig error: No writable cache directories
+[NbConvertApp] WARNING | Wait for final termination of kernel timed out - continuing...
+[NbConvertApp] Writing 27886057 bytes to C-ACSCatal2024-MT (Copy 5).ipynb
+[NbConvertApp] Converting notebook C-ACSCatal2024-MT (Copy 6).ipynb to notebook
+/home/royhe/miniconda3/envs/neighbour/lib/python3.10/site-packages/IPython/paths.py:62: UserWarning: IPython dir '/arc/home/royhe/.ipython' is not a writable location, using a temp directory.
+  warn("IPython dir '{0}' is not a writable location,"
+/home/royhe/miniconda3/envs/neighbour/lib/python3.10/site-packages/IPython/paths.py:62: UserWarning: IPython dir '/arc/home/royhe/.ipython' is not a writable location, using a temp directory.
+  warn("IPython dir '{0}' is not a writable location,"
+Fontconfig error: No writable cache directories
+Fontconfig error: No writable cache directories
+Fontconfig error: No writable cache directories
+Fontconfig error: No writable cache directories
+[NbConvertApp] Writing 27886057 bytes to C-ACSCatal2024-MT (Copy 6).ipynb
+[NbConvertApp] Converting notebook C-ACSCatal2024-MT (Copy 7).ipynb to notebook
+/home/royhe/miniconda3/envs/neighbour/lib/python3.10/site-packages/IPython/paths.py:62: UserWarning: IPython dir '/arc/home/royhe/.ipython' is not a writable location, using a temp directory.
+  warn("IPython dir '{0}' is not a writable location,"
+/home/royhe/miniconda3/envs/neighbour/lib/python3.10/site-packages/IPython/paths.py:62: UserWarning: IPython dir '/arc/home/royhe/.ipython' is not a writable location, using a temp directory.
+  warn("IPython dir '{0}' is not a writable location,"
+Fontconfig error: No writable cache directories
+Fontconfig error: No writable cache directories
+Fontconfig error: No writable cache directories
+Fontconfig error: No writable cache directories
+[NbConvertApp] Writing 27886057 bytes to C-ACSCatal2024-MT (Copy 7).ipynb
+[NbConvertApp] Converting notebook C-ACSCatal2024-MT (Copy 8).ipynb to notebook
+/home/royhe/miniconda3/envs/neighbour/lib/python3.10/site-packages/IPython/paths.py:62: UserWarning: IPython dir '/arc/home/royhe/.ipython' is not a writable location, using a temp directory.
+  warn("IPython dir '{0}' is not a writable location,"
+/home/royhe/miniconda3/envs/neighbour/lib/python3.10/site-packages/IPython/paths.py:62: UserWarning: IPython dir '/arc/home/royhe/.ipython' is not a writable location, using a temp directory.
+  warn("IPython dir '{0}' is not a writable location,"
+Fontconfig error: No writable cache directories
+Fontconfig error: No writable cache directories
+Fontconfig error: No writable cache directories
+Fontconfig error: No writable cache directories
+[NbConvertApp] Writing 27886057 bytes to C-ACSCatal2024-MT (Copy 8).ipynb
+[NbConvertApp] Converting notebook C-ACSCatal2024-MT (Copy 9).ipynb to notebook
+/home/royhe/miniconda3/envs/neighbour/lib/python3.10/site-packages/IPython/paths.py:62: UserWarning: IPython dir '/arc/home/royhe/.ipython' is not a writable location, using a temp directory.
+  warn("IPython dir '{0}' is not a writable location,"
+/home/royhe/miniconda3/envs/neighbour/lib/python3.10/site-packages/IPython/paths.py:62: UserWarning: IPython dir '/arc/home/royhe/.ipython' is not a writable location, using a temp directory.
+  warn("IPython dir '{0}' is not a writable location,"
+Fontconfig error: No writable cache directories
+Fontconfig error: No writable cache directories
+Fontconfig error: No writable cache directories
+Fontconfig error: No writable cache directories
+[NbConvertApp] Writing 27886057 bytes to C-ACSCatal2024-MT (Copy 9).ipynb
+[NbConvertApp] Converting notebook C-ACSCatal2024-MT.ipynb to notebook
+/home/royhe/miniconda3/envs/neighbour/lib/python3.10/site-packages/IPython/paths.py:62: UserWarning: IPython dir '/arc/home/royhe/.ipython' is not a writable location, using a temp directory.
+  warn("IPython dir '{0}' is not a writable location,"
+/home/royhe/miniconda3/envs/neighbour/lib/python3.10/site-packages/IPython/paths.py:62: UserWarning: IPython dir '/arc/home/royhe/.ipython' is not a writable location, using a temp directory.
+  warn("IPython dir '{0}' is not a writable location,"
+Fontconfig error: No writable cache directories
+Fontconfig error: No writable cache directories
+Fontconfig error: No writable cache directories
+Fontconfig error: No writable cache directories
+[NbConvertApp] Writing 27886056 bytes to C-ACSCatal2024-MT.ipynb
+[NbConvertApp] Converting notebook D-ChemSci2024-MT (Copy 10).ipynb to notebook
+/home/royhe/miniconda3/envs/neighbour/lib/python3.10/site-packages/IPython/paths.py:62: UserWarning: IPython dir '/arc/home/royhe/.ipython' is not a writable location, using a temp directory.
+  warn("IPython dir '{0}' is not a writable location,"
+/home/royhe/miniconda3/envs/neighbour/lib/python3.10/site-packages/IPython/paths.py:62: UserWarning: IPython dir '/arc/home/royhe/.ipython' is not a writable location, using a temp directory.
+  warn("IPython dir '{0}' is not a writable location,"
+Fontconfig error: No writable cache directories
+Fontconfig error: No writable cache directories
+Fontconfig error: No writable cache directories
+Fontconfig error: No writable cache directories
+[NbConvertApp] Writing 28933607 bytes to D-ChemSci2024-MT (Copy 10).ipynb
+[NbConvertApp] Converting notebook D-ChemSci2024-MT (Copy 2).ipynb to notebook
+/home/royhe/miniconda3/envs/neighbour/lib/python3.10/site-packages/IPython/paths.py:62: UserWarning: IPython dir '/arc/home/royhe/.ipython' is not a writable location, using a temp directory.
+  warn("IPython dir '{0}' is not a writable location,"
+/home/royhe/miniconda3/envs/neighbour/lib/python3.10/site-packages/IPython/paths.py:62: UserWarning: IPython dir '/arc/home/royhe/.ipython' is not a writable location, using a temp directory.
+  warn("IPython dir '{0}' is not a writable location,"
+Fontconfig error: No writable cache directories
+Fontconfig error: No writable cache directories
+Fontconfig error: No writable cache directories
+Fontconfig error: No writable cache directories
+[NbConvertApp] Writing 28843462 bytes to D-ChemSci2024-MT (Copy 2).ipynb
+[NbConvertApp] Converting notebook D-ChemSci2024-MT (Copy 3).ipynb to notebook
+/home/royhe/miniconda3/envs/neighbour/lib/python3.10/site-packages/IPython/paths.py:62: UserWarning: IPython dir '/arc/home/royhe/.ipython' is not a writable location, using a temp directory.
+  warn("IPython dir '{0}' is not a writable location,"
+/home/royhe/miniconda3/envs/neighbour/lib/python3.10/site-packages/IPython/paths.py:62: UserWarning: IPython dir '/arc/home/royhe/.ipython' is not a writable location, using a temp directory.
+  warn("IPython dir '{0}' is not a writable location,"
+Fontconfig error: No writable cache directories
+Fontconfig error: No writable cache directories
+Fontconfig error: No writable cache directories
+Fontconfig error: No writable cache directories
+[NbConvertApp] Writing 28970248 bytes to D-ChemSci2024-MT (Copy 3).ipynb
+[NbConvertApp] Converting notebook D-ChemSci2024-MT (Copy 4).ipynb to notebook
+/home/royhe/miniconda3/envs/neighbour/lib/python3.10/site-packages/IPython/paths.py:62: UserWarning: IPython dir '/arc/home/royhe/.ipython' is not a writable location, using a temp directory.
+  warn("IPython dir '{0}' is not a writable location,"
+/home/royhe/miniconda3/envs/neighbour/lib/python3.10/site-packages/IPython/paths.py:62: UserWarning: IPython dir '/arc/home/royhe/.ipython' is not a writable location, using a temp directory.
+  warn("IPython dir '{0}' is not a writable location,"
+Fontconfig error: No writable cache directories
+Fontconfig error: No writable cache directories
+Fontconfig error: No writable cache directories
+Fontconfig error: No writable cache directories
+[NbConvertApp] Writing 28818041 bytes to D-ChemSci2024-MT (Copy 4).ipynb
+[NbConvertApp] Converting notebook D-ChemSci2024-MT (Copy 5).ipynb to notebook
+/home/royhe/miniconda3/envs/neighbour/lib/python3.10/site-packages/IPython/paths.py:62: UserWarning: IPython dir '/arc/home/royhe/.ipython' is not a writable location, using a temp directory.
+  warn("IPython dir '{0}' is not a writable location,"
+/home/royhe/miniconda3/envs/neighbour/lib/python3.10/site-packages/IPython/paths.py:62: UserWarning: IPython dir '/arc/home/royhe/.ipython' is not a writable location, using a temp directory.
+  warn("IPython dir '{0}' is not a writable location,"
+Fontconfig error: No writable cache directories
+Fontconfig error: No writable cache directories
+Fontconfig error: No writable cache directories
+Fontconfig error: No writable cache directories
+[NbConvertApp] Writing 28953032 bytes to D-ChemSci2024-MT (Copy 5).ipynb
+[NbConvertApp] Converting notebook D-ChemSci2024-MT (Copy 6).ipynb to notebook
+/home/royhe/miniconda3/envs/neighbour/lib/python3.10/site-packages/IPython/paths.py:62: UserWarning: IPython dir '/arc/home/royhe/.ipython' is not a writable location, using a temp directory.
+  warn("IPython dir '{0}' is not a writable location,"
+/home/royhe/miniconda3/envs/neighbour/lib/python3.10/site-packages/IPython/paths.py:62: UserWarning: IPython dir '/arc/home/royhe/.ipython' is not a writable location, using a temp directory.
+  warn("IPython dir '{0}' is not a writable location,"
+Fontconfig error: No writable cache directories
+Fontconfig error: No writable cache directories
+Fontconfig error: No writable cache directories
+Fontconfig error: No writable cache directories
+[NbConvertApp] Writing 28924124 bytes to D-ChemSci2024-MT (Copy 6).ipynb
+[NbConvertApp] Converting notebook D-ChemSci2024-MT (Copy 7).ipynb to notebook
+/home/royhe/miniconda3/envs/neighbour/lib/python3.10/site-packages/IPython/paths.py:62: UserWarning: IPython dir '/arc/home/royhe/.ipython' is not a writable location, using a temp directory.
+  warn("IPython dir '{0}' is not a writable location,"
+/home/royhe/miniconda3/envs/neighbour/lib/python3.10/site-packages/IPython/paths.py:62: UserWarning: IPython dir '/arc/home/royhe/.ipython' is not a writable location, using a temp directory.
+  warn("IPython dir '{0}' is not a writable location,"
+Fontconfig error: No writable cache directories
+Fontconfig error: No writable cache directories
+Fontconfig error: No writable cache directories
+Fontconfig error: No writable cache directories
+[NbConvertApp] Writing 28939794 bytes to D-ChemSci2024-MT (Copy 7).ipynb
+[NbConvertApp] Converting notebook D-ChemSci2024-MT (Copy 8).ipynb to notebook
+/home/royhe/miniconda3/envs/neighbour/lib/python3.10/site-packages/IPython/paths.py:62: UserWarning: IPython dir '/arc/home/royhe/.ipython' is not a writable location, using a temp directory.
+  warn("IPython dir '{0}' is not a writable location,"
+/home/royhe/miniconda3/envs/neighbour/lib/python3.10/site-packages/IPython/paths.py:62: UserWarning: IPython dir '/arc/home/royhe/.ipython' is not a writable location, using a temp directory.
+  warn("IPython dir '{0}' is not a writable location,"
+Fontconfig error: No writable cache directories
+Fontconfig error: No writable cache directories
+Fontconfig error: No writable cache directories
+Fontconfig error: No writable cache directories
+[NbConvertApp] Writing 28873594 bytes to D-ChemSci2024-MT (Copy 8).ipynb
+[NbConvertApp] Converting notebook D-ChemSci2024-MT (Copy 9).ipynb to notebook
+/home/royhe/miniconda3/envs/neighbour/lib/python3.10/site-packages/IPython/paths.py:62: UserWarning: IPython dir '/arc/home/royhe/.ipython' is not a writable location, using a temp directory.
+  warn("IPython dir '{0}' is not a writable location,"
+/home/royhe/miniconda3/envs/neighbour/lib/python3.10/site-packages/IPython/paths.py:62: UserWarning: IPython dir '/arc/home/royhe/.ipython' is not a writable location, using a temp directory.
+  warn("IPython dir '{0}' is not a writable location,"
+Fontconfig error: No writable cache directories
+Fontconfig error: No writable cache directories
+Fontconfig error: No writable cache directories
+Fontconfig error: No writable cache directories
+[NbConvertApp] Writing 28912288 bytes to D-ChemSci2024-MT (Copy 9).ipynb
+[NbConvertApp] Converting notebook D-ChemSci2024-MT.ipynb to notebook
+/home/royhe/miniconda3/envs/neighbour/lib/python3.10/site-packages/IPython/paths.py:62: UserWarning: IPython dir '/arc/home/royhe/.ipython' is not a writable location, using a temp directory.
+  warn("IPython dir '{0}' is not a writable location,"
+/home/royhe/miniconda3/envs/neighbour/lib/python3.10/site-packages/IPython/paths.py:62: UserWarning: IPython dir '/arc/home/royhe/.ipython' is not a writable location, using a temp directory.
+  warn("IPython dir '{0}' is not a writable location,"
+Fontconfig error: No writable cache directories
+Fontconfig error: No writable cache directories
+Fontconfig error: No writable cache directories
+Fontconfig error: No writable cache directories
+[NbConvertApp] Writing 28960781 bytes to D-ChemSci2024-MT.ipynb
+[NbConvertApp] Converting notebook E-JACS2023-MT (Copy 10).ipynb to notebook
+/home/royhe/miniconda3/envs/neighbour/lib/python3.10/site-packages/IPython/paths.py:62: UserWarning: IPython dir '/arc/home/royhe/.ipython' is not a writable location, using a temp directory.
+  warn("IPython dir '{0}' is not a writable location,"
+/home/royhe/miniconda3/envs/neighbour/lib/python3.10/site-packages/IPython/paths.py:62: UserWarning: IPython dir '/arc/home/royhe/.ipython' is not a writable location, using a temp directory.
+  warn("IPython dir '{0}' is not a writable location,"
+Fontconfig error: No writable cache directories
+Fontconfig error: No writable cache directories
+Fontconfig error: No writable cache directories
+Fontconfig error: No writable cache directories
+[NbConvertApp] Writing 42344994 bytes to E-JACS2023-MT (Copy 10).ipynb
+[NbConvertApp] Converting notebook E-JACS2023-MT (Copy 2).ipynb to notebook
+/home/royhe/miniconda3/envs/neighbour/lib/python3.10/site-packages/IPython/paths.py:62: UserWarning: IPython dir '/arc/home/royhe/.ipython' is not a writable location, using a temp directory.
+  warn("IPython dir '{0}' is not a writable location,"
+/home/royhe/miniconda3/envs/neighbour/lib/python3.10/site-packages/IPython/paths.py:62: UserWarning: IPython dir '/arc/home/royhe/.ipython' is not a writable location, using a temp directory.
+  warn("IPython dir '{0}' is not a writable location,"
+Fontconfig error: No writable cache directories
+Fontconfig error: No writable cache directories
+Fontconfig error: No writable cache directories
+Fontconfig error: No writable cache directories
+[NbConvertApp] Writing 42344994 bytes to E-JACS2023-MT (Copy 2).ipynb
+[NbConvertApp] Converting notebook E-JACS2023-MT (Copy 3).ipynb to notebook
+/home/royhe/miniconda3/envs/neighbour/lib/python3.10/site-packages/IPython/paths.py:62: UserWarning: IPython dir '/arc/home/royhe/.ipython' is not a writable location, using a temp directory.
+  warn("IPython dir '{0}' is not a writable location,"
+/home/royhe/miniconda3/envs/neighbour/lib/python3.10/site-packages/IPython/paths.py:62: UserWarning: IPython dir '/arc/home/royhe/.ipython' is not a writable location, using a temp directory.
+  warn("IPython dir '{0}' is not a writable location,"
+Fontconfig error: No writable cache directories
+Fontconfig error: No writable cache directories
+Fontconfig error: No writable cache directories
+Fontconfig error: No writable cache directories
+[NbConvertApp] Writing 42344994 bytes to E-JACS2023-MT (Copy 3).ipynb
+[NbConvertApp] Converting notebook E-JACS2023-MT (Copy 4).ipynb to notebook
+/home/royhe/miniconda3/envs/neighbour/lib/python3.10/site-packages/IPython/paths.py:62: UserWarning: IPython dir '/arc/home/royhe/.ipython' is not a writable location, using a temp directory.
+  warn("IPython dir '{0}' is not a writable location,"
+/home/royhe/miniconda3/envs/neighbour/lib/python3.10/site-packages/IPython/paths.py:62: UserWarning: IPython dir '/arc/home/royhe/.ipython' is not a writable location, using a temp directory.
+  warn("IPython dir '{0}' is not a writable location,"
+Fontconfig error: No writable cache directories
+Fontconfig error: No writable cache directories
+Fontconfig error: No writable cache directories
+Fontconfig error: No writable cache directories
+[NbConvertApp] Writing 42344994 bytes to E-JACS2023-MT (Copy 4).ipynb
+[NbConvertApp] Converting notebook E-JACS2023-MT (Copy 5).ipynb to notebook
+/home/royhe/miniconda3/envs/neighbour/lib/python3.10/site-packages/IPython/paths.py:62: UserWarning: IPython dir '/arc/home/royhe/.ipython' is not a writable location, using a temp directory.
+  warn("IPython dir '{0}' is not a writable location,"
+/home/royhe/miniconda3/envs/neighbour/lib/python3.10/site-packages/IPython/paths.py:62: UserWarning: IPython dir '/arc/home/royhe/.ipython' is not a writable location, using a temp directory.
+  warn("IPython dir '{0}' is not a writable location,"
+Fontconfig error: No writable cache directories
+Fontconfig error: No writable cache directories
+Fontconfig error: No writable cache directories
+Fontconfig error: No writable cache directories
+[NbConvertApp] Writing 42344994 bytes to E-JACS2023-MT (Copy 5).ipynb
+[NbConvertApp] Converting notebook E-JACS2023-MT (Copy 6).ipynb to notebook
+/home/royhe/miniconda3/envs/neighbour/lib/python3.10/site-packages/IPython/paths.py:62: UserWarning: IPython dir '/arc/home/royhe/.ipython' is not a writable location, using a temp directory.
+  warn("IPython dir '{0}' is not a writable location,"
+/home/royhe/miniconda3/envs/neighbour/lib/python3.10/site-packages/IPython/paths.py:62: UserWarning: IPython dir '/arc/home/royhe/.ipython' is not a writable location, using a temp directory.
+  warn("IPython dir '{0}' is not a writable location,"
+Fontconfig error: No writable cache directories
+Fontconfig error: No writable cache directories
+Fontconfig error: No writable cache directories
+Fontconfig error: No writable cache directories
+[NbConvertApp] Writing 42344994 bytes to E-JACS2023-MT (Copy 6).ipynb
+[NbConvertApp] Converting notebook E-JACS2023-MT (Copy 7).ipynb to notebook
+/home/royhe/miniconda3/envs/neighbour/lib/python3.10/site-packages/IPython/paths.py:62: UserWarning: IPython dir '/arc/home/royhe/.ipython' is not a writable location, using a temp directory.
+  warn("IPython dir '{0}' is not a writable location,"
+/home/royhe/miniconda3/envs/neighbour/lib/python3.10/site-packages/IPython/paths.py:62: UserWarning: IPython dir '/arc/home/royhe/.ipython' is not a writable location, using a temp directory.
+  warn("IPython dir '{0}' is not a writable location,"
+Fontconfig error: No writable cache directories
+Fontconfig error: No writable cache directories
+Fontconfig error: No writable cache directories
+Fontconfig error: No writable cache directories
+[NbConvertApp] Writing 42344994 bytes to E-JACS2023-MT (Copy 7).ipynb
+[NbConvertApp] Converting notebook E-JACS2023-MT (Copy 8).ipynb to notebook
+/home/royhe/miniconda3/envs/neighbour/lib/python3.10/site-packages/IPython/paths.py:62: UserWarning: IPython dir '/arc/home/royhe/.ipython' is not a writable location, using a temp directory.
+  warn("IPython dir '{0}' is not a writable location,"
+/home/royhe/miniconda3/envs/neighbour/lib/python3.10/site-packages/IPython/paths.py:62: UserWarning: IPython dir '/arc/home/royhe/.ipython' is not a writable location, using a temp directory.
+  warn("IPython dir '{0}' is not a writable location,"
+Fontconfig error: No writable cache directories
+Fontconfig error: No writable cache directories
+Fontconfig error: No writable cache directories
+Fontconfig error: No writable cache directories
+[NbConvertApp] Writing 42344994 bytes to E-JACS2023-MT (Copy 8).ipynb
+[NbConvertApp] Converting notebook E-JACS2023-MT (Copy 9).ipynb to notebook
+/home/royhe/miniconda3/envs/neighbour/lib/python3.10/site-packages/IPython/paths.py:62: UserWarning: IPython dir '/arc/home/royhe/.ipython' is not a writable location, using a temp directory.
+  warn("IPython dir '{0}' is not a writable location,"
+/home/royhe/miniconda3/envs/neighbour/lib/python3.10/site-packages/IPython/paths.py:62: UserWarning: IPython dir '/arc/home/royhe/.ipython' is not a writable location, using a temp directory.
+  warn("IPython dir '{0}' is not a writable location,"
+Fontconfig error: No writable cache directories
+Fontconfig error: No writable cache directories
+Fontconfig error: No writable cache directories
+Fontconfig error: No writable cache directories
+[NbConvertApp] WARNING | Wait for final termination of kernel timed out - continuing...
+[NbConvertApp] Writing 42344994 bytes to E-JACS2023-MT (Copy 9).ipynb
+[NbConvertApp] Converting notebook E-JACS2023-MT.ipynb to notebook
+/home/royhe/miniconda3/envs/neighbour/lib/python3.10/site-packages/IPython/paths.py:62: UserWarning: IPython dir '/arc/home/royhe/.ipython' is not a writable location, using a temp directory.
+  warn("IPython dir '{0}' is not a writable location,"
+/home/royhe/miniconda3/envs/neighbour/lib/python3.10/site-packages/IPython/paths.py:62: UserWarning: IPython dir '/arc/home/royhe/.ipython' is not a writable location, using a temp directory.
+  warn("IPython dir '{0}' is not a writable location,"
+Fontconfig error: No writable cache directories
+Fontconfig error: No writable cache directories
+Fontconfig error: No writable cache directories
+Fontconfig error: No writable cache directories
+[2026-01-28T22:22:33.165] error: *** JOB 7490683 ON se180 CANCELLED AT 2026-01-28T22:22:33 DUE to SIGNAL Terminated ***

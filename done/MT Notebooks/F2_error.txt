@@ -1,0 +1,13 @@
+[NbConvertApp] WARNING | pattern ' E-JACS2023-MT.ipynb' matched no files
+[NbConvertApp] Converting notebook F-Angew2024-MT (Copy 10).ipynb to notebook
+/home/royhe/miniconda3/envs/neighbour/lib/python3.10/site-packages/IPython/paths.py:62: UserWarning: IPython dir '/arc/home/royhe/.ipython' is not a writable location, using a temp directory.
+  warn("IPython dir '{0}' is not a writable location,"
+/home/royhe/miniconda3/envs/neighbour/lib/python3.10/site-packages/IPython/paths.py:62: UserWarning: IPython dir '/arc/home/royhe/.ipython' is not a writable location, using a temp directory.
+  warn("IPython dir '{0}' is not a writable location,"
+Fontconfig error: No writable cache directories
+Fontconfig error: No writable cache directories
+Fontconfig error: No writable cache directories
+Fontconfig error: No writable cache directories
+[2026-01-28T22:33:24.702] error: *** JOB 7586809 ON se052 CANCELLED AT 2026-01-28T22:33:24 DUE to SIGNAL Terminated ***
+[NbConvertApp] WARNING | Wait for final termination of kernel timed out - continuing...
+[NbConvertApp] Writing 34663663 bytes to F-Angew2024-MT.ipynb

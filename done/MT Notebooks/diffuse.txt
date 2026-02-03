@@ -1,0 +1,99 @@
+Running: A-Nature2019-MT (Copy 10).ipynb
+✅ Success: A-Nature2019-MT (Copy 10).ipynb
+Running: A-Nature2019-MT (Copy 2).ipynb
+✅ Success: A-Nature2019-MT (Copy 2).ipynb
+Running: A-Nature2019-MT (Copy 3).ipynb
+✅ Success: A-Nature2019-MT (Copy 3).ipynb
+Running: A-Nature2019-MT (Copy 4).ipynb
+✅ Success: A-Nature2019-MT (Copy 4).ipynb
+Running: A-Nature2019-MT (Copy 5).ipynb
+✅ Success: A-Nature2019-MT (Copy 5).ipynb
+Running: A-Nature2019-MT (Copy 6).ipynb
+✅ Success: A-Nature2019-MT (Copy 6).ipynb
+Running: A-Nature2019-MT (Copy 7).ipynb
+✅ Success: A-Nature2019-MT (Copy 7).ipynb
+Running: A-Nature2019-MT (Copy 8).ipynb
+✅ Success: A-Nature2019-MT (Copy 8).ipynb
+Running: A-Nature2019-MT (Copy 9).ipynb
+✅ Success: A-Nature2019-MT (Copy 9).ipynb
+Running: A-Nature2019-MT.ipynb
+✅ Success: A-Nature2019-MT.ipynb
+Running: B-DD2022--MT (Copy 10).ipynb
+✅ Success: B-DD2022--MT (Copy 10).ipynb
+Running: B-DD2022--MT (Copy 2).ipynb
+✅ Success: B-DD2022--MT (Copy 2).ipynb
+Running: B-DD2022--MT (Copy 3).ipynb
+✅ Success: B-DD2022--MT (Copy 3).ipynb
+Running: B-DD2022--MT (Copy 4).ipynb
+✅ Success: B-DD2022--MT (Copy 4).ipynb
+Running: B-DD2022--MT (Copy 5).ipynb
+✅ Success: B-DD2022--MT (Copy 5).ipynb
+Running: B-DD2022--MT (Copy 6).ipynb
+✅ Success: B-DD2022--MT (Copy 6).ipynb
+Running: B-DD2022--MT (Copy 7).ipynb
+✅ Success: B-DD2022--MT (Copy 7).ipynb
+Running: B-DD2022--MT (Copy 8).ipynb
+✅ Success: B-DD2022--MT (Copy 8).ipynb
+Running: B-DD2022--MT (Copy 9).ipynb
+✅ Success: B-DD2022--MT (Copy 9).ipynb
+Running: B-DD2022--MT.ipynb
+✅ Success: B-DD2022--MT.ipynb
+Running: C-ACSCatal2024-MT (Copy 10).ipynb
+✅ Success: C-ACSCatal2024-MT (Copy 10).ipynb
+Running: C-ACSCatal2024-MT (Copy 2).ipynb
+✅ Success: C-ACSCatal2024-MT (Copy 2).ipynb
+Running: C-ACSCatal2024-MT (Copy 3).ipynb
+✅ Success: C-ACSCatal2024-MT (Copy 3).ipynb
+Running: C-ACSCatal2024-MT (Copy 4).ipynb
+✅ Success: C-ACSCatal2024-MT (Copy 4).ipynb
+Running: C-ACSCatal2024-MT (Copy 5).ipynb
+✅ Success: C-ACSCatal2024-MT (Copy 5).ipynb
+Running: C-ACSCatal2024-MT (Copy 6).ipynb
+✅ Success: C-ACSCatal2024-MT (Copy 6).ipynb
+Running: C-ACSCatal2024-MT (Copy 7).ipynb
+✅ Success: C-ACSCatal2024-MT (Copy 7).ipynb
+Running: C-ACSCatal2024-MT (Copy 8).ipynb
+✅ Success: C-ACSCatal2024-MT (Copy 8).ipynb
+Running: C-ACSCatal2024-MT (Copy 9).ipynb
+✅ Success: C-ACSCatal2024-MT (Copy 9).ipynb
+Running: C-ACSCatal2024-MT.ipynb
+✅ Success: C-ACSCatal2024-MT.ipynb
+Running: D-ChemSci2024-MT (Copy 10).ipynb
+✅ Success: D-ChemSci2024-MT (Copy 10).ipynb
+Running: D-ChemSci2024-MT (Copy 2).ipynb
+✅ Success: D-ChemSci2024-MT (Copy 2).ipynb
+Running: D-ChemSci2024-MT (Copy 3).ipynb
+✅ Success: D-ChemSci2024-MT (Copy 3).ipynb
+Running: D-ChemSci2024-MT (Copy 4).ipynb
+✅ Success: D-ChemSci2024-MT (Copy 4).ipynb
+Running: D-ChemSci2024-MT (Copy 5).ipynb
+✅ Success: D-ChemSci2024-MT (Copy 5).ipynb
+Running: D-ChemSci2024-MT (Copy 6).ipynb
+✅ Success: D-ChemSci2024-MT (Copy 6).ipynb
+Running: D-ChemSci2024-MT (Copy 7).ipynb
+✅ Success: D-ChemSci2024-MT (Copy 7).ipynb
+Running: D-ChemSci2024-MT (Copy 8).ipynb
+✅ Success: D-ChemSci2024-MT (Copy 8).ipynb
+Running: D-ChemSci2024-MT (Copy 9).ipynb
+✅ Success: D-ChemSci2024-MT (Copy 9).ipynb
+Running: D-ChemSci2024-MT.ipynb
+✅ Success: D-ChemSci2024-MT.ipynb
+Running: E-JACS2023-MT (Copy 10).ipynb
+✅ Success: E-JACS2023-MT (Copy 10).ipynb
+Running: E-JACS2023-MT (Copy 2).ipynb
+✅ Success: E-JACS2023-MT (Copy 2).ipynb
+Running: E-JACS2023-MT (Copy 3).ipynb
+✅ Success: E-JACS2023-MT (Copy 3).ipynb
+Running: E-JACS2023-MT (Copy 4).ipynb
+✅ Success: E-JACS2023-MT (Copy 4).ipynb
+Running: E-JACS2023-MT (Copy 5).ipynb
+✅ Success: E-JACS2023-MT (Copy 5).ipynb
+Running: E-JACS2023-MT (Copy 6).ipynb
+✅ Success: E-JACS2023-MT (Copy 6).ipynb
+Running: E-JACS2023-MT (Copy 7).ipynb
+✅ Success: E-JACS2023-MT (Copy 7).ipynb
+Running: E-JACS2023-MT (Copy 8).ipynb
+✅ Success: E-JACS2023-MT (Copy 8).ipynb
+Running: E-JACS2023-MT (Copy 9).ipynb
+✅ Success: E-JACS2023-MT (Copy 9).ipynb
+Running: E-JACS2023-MT.ipynb
