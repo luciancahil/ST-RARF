@@ -10,12 +10,12 @@ import utils
 
 COLORA = '#027F80'
 COLORB = '#B2E5FC'
-SEED = 314159
+SEEDY = 314159
 
 
-def run_and_plot(radius, X_train, y_train, X_test, y_test, distances, title_extra = None):
-    radius_pred, train_neighbours = RaRFRegressor.RaRFRegressor(radius=radius, metric='jaccard', seed=SEED).train_parallel(X_train,y_train, include_self='True')
-    radius_testpred, test_neighbours, test_neighbours_list = RaRFRegressor.RaRFRegressor(radius=radius,metric='jaccard', seed=SEED).predict_parallel(X_train, y_train, X_test, distances)    
+def run_and_plot(radius, X_train, y_train, X_test, y_test, distances, title_extra = None, seed=SEEDY):
+    radius_pred, train_neighbours = RaRFRegressor.RaRFRegressor(radius=radius, metric='jaccard', seed=seed).train_parallel(X_train,y_train, include_self='True')
+    radius_testpred, test_neighbours, test_neighbours_list = RaRFRegressor.RaRFRegressor(radius=radius,metric='jaccard', seed=seed).predict_parallel(X_train, y_train, X_test, distances)    
 
     test_neighbours = np.array(test_neighbours)
     nan_indexes = []
@@ -127,7 +127,7 @@ def get_sorted_neighbours(cutoff, distances):
 
 
 
-def run_MT(cutoff, max_budget, ref_mae, ref_r2, X_train, y_train, X_test, y_test):
+def run_MT(cutoff, max_budget, ref_mae, ref_r2, X_train, y_train, X_test, y_test, seed, output):
     results = []
     
     distances = utils.get_distances(X_train,X_test)
@@ -152,7 +152,7 @@ def run_MT(cutoff, max_budget, ref_mae, ref_r2, X_train, y_train, X_test, y_test
 
     
         results.append(run_and_plot(cutoff, X_train, y_train, X_test, y_test, cur_distances,  
-                                    title_extra = ", Budget: {}, Percent Used: {:.1f}%".format(budget, multiplier * 100)))
+                                    title_extra = ", Budget: {}, Percent Used: {:.1f}%".format(budget, multiplier * 100), seed=seed))
 
 
     
@@ -192,5 +192,7 @@ def run_MT(cutoff, max_budget, ref_mae, ref_r2, X_train, y_train, X_test, y_test
 
     print("RARF MAE: {}".format(cur_RaRF_mae))
     print("RARF R2: {}".format(cur_test_r2s))
+
+    output.write(str(cur_RaRF_mae) + "\n")
 
     plt.show()
